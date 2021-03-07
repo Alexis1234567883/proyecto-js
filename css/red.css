@@ -1,0 +1,16 @@
+body {
+    background: url('../img/rojo.jpg');  /* .. para subir al directorio padre y carge la imagen*/
+    background-attachment: fixed;  /*para q se muestre simepre el fondo y nunca se acabe la imagem*/
+}
+
+#logo{
+    background: #ca3413;
+}
+
+#menu ul li:hover{  /*over para efectos cuando pase el mouse por encima*/
+    background: #ca3413;
+}
+
+.button-more{
+    background: #ca3413;
+}

@@ -1,0 +1,16 @@
+body {
+    background: url('../img/cielo.jpg');  /* .. para subir al directorio padre y carge la imagen*/
+    background-attachment: fixed;  /*para q se muestre simepre el fondo y nunca se acabe la imagem*/
+}
+
+#logo{
+    background: #1f87c4;
+}
+
+#menu ul li:hover{  /*over para efectos cuando pase el mouse por encima*/
+    background: #1f87c4;
+}
+
+.button-more{
+    background: #1f87c4;
+}
